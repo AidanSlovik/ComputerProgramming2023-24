@@ -16,9 +16,9 @@ OOP Graphical Game with sound and keyboard/mouse listeners.
 
 [Source Code](https://github.com/AidanSlovik/ComputerProgramming2023-24/blob/main/src/SpaceGame%202.zip)
 
-### another thing
-OOP Graphical Game with sound and keyboard/mouse listeners.
+### DriveCars
+OOP Graphical Game with arrays and random variables
 
-![Gameplay](https://github.com/AidanSlovik/ComputerProgramming2023-24/blob/main/images/sg1.png?raw=true "Gameplay")
+![Gameplay]()
 
 [Source Code](https://github.com/AidanSlovik/ComputerProgramming2023-24/blob/main/src/SpaceGame%202.zip)
