@@ -2,7 +2,7 @@
 Skyline High School Computer Programming 1-2
 
 ## USOE Certifications
-* Computyer Programing 1
+* Computer Programing 1
 * Robotics 1
 
 ## Group Projects 
