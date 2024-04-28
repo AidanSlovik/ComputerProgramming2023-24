@@ -13,9 +13,9 @@ Skyline High School Computer Programming 1-2
 ### Poker 
 logic based game for playing poker against a computer
 
-[Repository](https://www.google.com)
+[Repository](https://www.google.com)  
 
-[Repository]([https://www.google.com](https://github.com/EliSlovik/poker-i-barley-know-her))
+[Repository]((https://github.com/EliSlovik/poker-i-barley-know-her))
 
 
 
