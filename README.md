@@ -15,7 +15,7 @@ logic based game for playing poker against a computer
 
 [Repository](https://github.com/EliSlovik/poker-i-barley-know-her)  
 
-[Repository]((https://github.com/EliSlovik/poker-i-barley-know-her))
+[Repository](https://github.com/EliSlovik/poker-i-barley-know-her)
 
 
 
