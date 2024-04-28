@@ -20,6 +20,13 @@ logic based game for playing poker against a computer
 ## Individual Projects
 
 ### SpaceGame
+
+idle clickker game with upgrade class and random event class
+
+[Repository](https://github.com/AidanSlovik/space-clicker)  
+
+
+### SpaceGame
 OOP Graphical Game with sound and keyboard/mouse listeners.
 
 ![Gameplay](https://github.com/AidanSlovik/ComputerProgramming2023-24/blob/main/images/sg1.png?raw=true "SpaceGame gameplay")
