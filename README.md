@@ -1,11 +1,19 @@
 # Aidan Slovik's Programing Portfolio 2023-24
 Skyline High School Computer Programming 1-2
 
+## Contact
+
+
 ## USOE Certifications
 * Computer Programing 1
 * Robotics 1
 
 ## Group Projects 
+
+### Poker 
+logic based game for playing poker against a computer
+
+[Repository]([https://www.google.com](https://github.com/EliSlovik/poker-i-barley-know-her))
 
 ## Individual Projects
 
