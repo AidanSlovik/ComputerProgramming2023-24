@@ -19,9 +19,11 @@ logic based game for playing poker against a computer
 
 ## Individual Projects
 
-### SpaceGame
+### SpaceClicker
 
-idle clickker game with upgrade class and random event class
+idle clicker game with upgrade class and random event class
+
+![Gameplay](https://github.com/AidanSlovik/ComputerProgramming2023-24/blob/main/images/SpaceClicker1.png?raw=true "SpaceClicker gameplay")
 
 [Repository](https://github.com/AidanSlovik/space-clicker)  
 
